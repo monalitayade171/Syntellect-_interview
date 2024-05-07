@@ -1,3 +1,8 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0
+}
 .App {
   text-align: center;
 }
@@ -28,6 +33,18 @@
   color: #61dafb;
 }
 
+.title-bar{
+  width: 100%;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+table thead{
+  border-bottom: 1px solid #ccc;
+  padding: 5px 0;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

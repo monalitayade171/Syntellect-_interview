@@ -1,0 +1,28 @@
+{
+    "myData" : [
+        {
+            "id":1,
+            "name":"PQR",
+            "email":"pqr@gmail.com",
+            "role":"Admin"
+        },
+        {
+            "id":2,
+            "name":"PQR_1",
+            "email":"pqr_1@gmail.com",
+            "role":"User"
+        },
+        {
+            "id":3,
+            "name":"PQR_2",
+            "email":"pqr_2@gmail.com",
+            "role":"Admin"
+        },
+        {
+            "id":4,
+            "name":"PQR_3",
+            "email":"pqr_3@gmail.com",
+            "role":"Admin"
+        }
+    ]
+}
